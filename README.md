@@ -1,1 +1,5 @@
-# cpp-exam
+![Screenshot (229)](https://github.com/pjay30803/cpp-exam/assets/148023182/185c5bff-ce7e-463e-acee-b3150eb5f4e2)
+![Screenshot (228)](https://github.com/pjay30803/cpp-exam/assets/148023182/0fe0f21d-3507-46e6-b165-35755cd2b1ff)
+![Screenshot (227)](https://github.com/pjay30803/cpp-exam/assets/148023182/13e2a26f-ba32-44ba-baac-5cc7c651a0dc)
+![Screenshot (226)](https://github.com/pjay30803/cpp-exam/assets/148023182/73990ad9-dae0-4e82-a8da-e050993cf093)
+![Screenshot (230)](https://github.com/pjay30803/cpp-exam/assets/148023182/7405b260-6942-4381-b26d-0b612dcc73b0)
